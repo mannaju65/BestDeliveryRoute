@@ -1,0 +1,5 @@
+package enums;
+
+public enum OrderStatus {
+    PLACED, PREPARING_FOOD, ORDER_PICKED, DELIVERY_IN_PROGRESS, DELIVERED, CANCELLED; 
+}
